@@ -1,3 +1,4 @@
 ### Leaders
 
-* [Chaim Sanders](mailto://)
+* [Chaim Sanders](mailto:)
+* [Ann Grove](mailto:ann.grove@owasp.org)
