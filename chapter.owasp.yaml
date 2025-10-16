@@ -1,0 +1,22 @@
+leaders:
+  - name: Jainam Basra
+    email: jainam.basra@owasp.org
+  - name: Rajmi Doshi
+    email: rajmi.doshi@owasp.org
+location:
+  country: United States
+  country_code: US
+  region: Maryland
+  city: Baltimore
+  latitude: 39.2908816
+  longitude: -76.610759
+name: OWASP Baltimore
+repositories:
+  - name: www-chapter-baltimore
+    url: https://github.com/OWASP/www-chapter-baltimore
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-baltimore
